@@ -14,6 +14,22 @@
     height: 36px;
   }
 }
+/* @media screen and (max-width: 1440px) {
+  .page-title {
+    font-size: 2.5rem;
+  }
+  .page-sub-title {
+    font-size: 1.2rem;
+  }
+  .page-sub-title1 {
+    font-size: 0.9rem;
+  }
+
+  .tabs-block-item svg {
+    width: 36px;
+    height: 36px;
+  }
+} */
 
 @media screen and (max-width: 1024px) {
   .error-msg {
